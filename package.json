@@ -12,6 +12,7 @@
     "hbsfy": "^2.7.0",
     "jquery": "^3.1.0",
     "jshint": "^2.9.1",
+    "lodash.startcase": "^4.4.0",
     "matchdep": "^0.3.0"
   }
 }
